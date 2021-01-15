@@ -11,8 +11,8 @@ import org.springframework.context.annotation.Configuration;
 
 @Configuration
 public class HeroConfiguration {
-    @Value("${color}")
-    private  String color;
+   // @Value("${color}")
+    private  String color = "写死的";
 
     @Bean
 //    @ConditionalOnProperty(value="hero",havingValue = "luban",matchIfMissing = true)

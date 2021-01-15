@@ -1,7 +1,7 @@
 package com.waiwing.Shop.dto;
 
 
-import com.waiwing.Shop.validators.PasswordEqual;
+import com.waiwing.Shop.dto.validators.PasswordEqual;
 import lombok.*;
 import org.hibernate.validator.constraints.Length;
 

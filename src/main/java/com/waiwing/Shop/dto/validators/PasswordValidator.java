@@ -1,4 +1,4 @@
-package com.waiwing.Shop.validators;
+package com.waiwing.Shop.dto.validators;
 
 import com.waiwing.Shop.dto.PersonDTO;
 
